@@ -31,11 +31,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/GutemaG)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/birhanu-gudisa-021ba9220/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
